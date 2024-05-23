@@ -1,0 +1,4 @@
+CLEAR
+FOR a=1 TO 5
+? 10 * a
+ENDFOR
