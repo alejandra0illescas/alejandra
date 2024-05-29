@@ -8,4 +8,4 @@ n=0
 @12,30 say "ingrese n" get n
 READ
 h=(d+e+n)/3
-@14,30 say"el promedio de los numeros es"+TRANSFORM("h,9999999999.99)
+@14,30 say"el promedio de los numeros es"+TRANSFORM(h,"99999999.99")
